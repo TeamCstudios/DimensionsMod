@@ -3,6 +3,7 @@ Dimensions Mod wiki.
 
 | Category | Name |
 |----------|------|
+|Commands|Dimensional Almanac|
 | Dimension |Abandoned Dimension|
 | Dimension |Infinite Caves Dimension|
 | Dimension |Goldmine Dimension|

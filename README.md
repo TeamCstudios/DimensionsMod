@@ -34,6 +34,8 @@ Dimensions Mod wiki.
 |Block / Material|Crazy Rock|
 |Block / Material|Waste Ground|
 |Block / Crafted|Icegem Block|
+|Block / Explosive|Nuke|
+|Block / Explosive|Water Bomb|
 |Block / Ore|Ice Ore|
 |Fluid|Purple Fluid|
 |Fluid|Goldwater|

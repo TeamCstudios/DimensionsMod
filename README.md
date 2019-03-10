@@ -1,0 +1,2 @@
+# DimensionsMod
+Dimensions Mod wiki.

@@ -1,6 +1,8 @@
 # Dimensions Mod Wiki
 Dimensions Mod wiki. 
 
+### [Changelog](changelog)
+
 | Category | Name |
 |----------|------|
 |Commands|Dimensional Almanac|

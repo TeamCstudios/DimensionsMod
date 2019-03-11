@@ -1,9 +1,10 @@
 # Stage 2 Beta
 ## 0.8.0
-- Add Water Bow
-- Add Water Fortress
-- Make Eternal Ocean less laggy
-- Make Portal Hallway structure
+- Adds a new difficult Interloper Mob, the Interloper Sniper.
+- Adds the Destroyed Portal Hallway structure
+- Adds the Void Bow  (buggy)
+- Interloper Ship 3
+- New, very difficult boss mob, the Interloper Commander.
 ## 0.7.0
 - Add Water Bow
 - Add Water Fortress

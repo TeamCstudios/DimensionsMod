@@ -14,8 +14,8 @@ Dimensions Mod wiki.
 {:.thead-dark}
 | Category          | Name                       |
 | ----------------- | -------------------------- |
-| Commands          | Dimensional Almanac        |
-| Dimension         | Abandoned Dimension        |
+| Commands          | [Dimensional Almanac](command/dimensionalalmanac.md)        |
+| Dimension         | [Abandoned Dimension](dimension/abandoned-d.md)        |
 | Dimension         | Infinite Caves Dimension   |
 | Dimension         | Goldmine Dimension         |
 | Dimension         | Jungle Dimension           |
@@ -30,7 +30,7 @@ Dimensions Mod wiki.
 | Dimension         | The Corrupted Dimension    |
 | Dimension         | Primordial Dimension       |
 | Dimension         | The Chaos Dimension        |
-| Dimension         | Technofell                 |
+| Dimension         | [Technofell](dimension/technofell.md)                 |
 | Block / Material  | Eternal Bricks             |
 | Block / Material  | Eternal Silt               |
 | Block / Material  | Purple Grass               |

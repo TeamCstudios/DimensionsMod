@@ -66,9 +66,9 @@ Dimensions Mod wiki.
 | Armor             | Ice Armor                                         |
 | Armor             | Interloper Armor                                  |
 | Armor             | Interloper Commander Armor                        |
-| Weapon            | Water Bow                                         |
-| Weapon            | Void Bow                                          |
-| Weapon            | Fire Bow                                          |
+| Weapon            | [Water Bow](weapon/waterbow)                                         |
+| Weapon            | [Void Bow](weapon/voidbow)                                          |
+| Weapon            | [Fire Bow](weapon/firebow)                         |
 | Tool              | Purple Pickaxe                                    |
 | Structure         | Portal Hallway                                    |
 | Structure         | Destroyed Portal Hallway                          |

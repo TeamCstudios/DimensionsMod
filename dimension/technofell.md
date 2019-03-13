@@ -4,8 +4,6 @@ title: Abandoned Dimension
 category: commands
 ---
 
-## Technofell
-
 ### Lore
 "This dimension is used by the gods to banish waste, both living and physical. It has seas of extremely poisonous fluid known as ‘Technowater.’ TRAVEL IS HEAVILY NOT ADVISED. Its portal is made of Black Glazed Terracotta." - The Dimensional Almanac
 

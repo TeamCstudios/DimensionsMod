@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Abandoned Dimension
-category: commands
+title: Technofell
+category: dimension
 ---
 
 ### Lore

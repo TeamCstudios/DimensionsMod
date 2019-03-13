@@ -20,7 +20,7 @@ Dimensions Mod wiki.
 | Dimension         | Jungle Dimension                                  |
 | Dimension         | Deepest Forest Dimension                          |
 | Dimension         | Infinite Glacier Dimension                        |
-| Dimension         | Eternal Ocean Dimension                           |
+| Dimension         | Eternal Ocean(dimension/eternalocean) |
 | Dimension         | The Candy Dimension                               |
 | Dimension         | The Crazy Dimension                               |
 | Dimension         | Purple Dimension                                  |

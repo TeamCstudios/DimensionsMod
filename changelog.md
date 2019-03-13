@@ -1,4 +1,11 @@
 # Stage 2 Beta
+## 0.9.0
+- Fire Fortress
+- Fire Bow
+- Shard of the Past
+- Shard of the Future
+- Interloper Houses (4)
+- Portal Hallway Ruins
 ## 0.8.0
 - Adds a new difficult Interloper Mob, the Interloper Sniper.
 - Adds the Destroyed Portal Hallway structure

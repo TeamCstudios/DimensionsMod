@@ -50,6 +50,8 @@ Dimensions Mod wiki.
 |Material|Purple Shard|
 |Material|Ice Gem|
 |Material|Interlopan Shard|
+|Material|Shard of the Past|
+|Material|Shard of the Future|
 |Food / Material|Candy Dust|
 |Food|Chocolate Bar|
 |Armor|Purple Armor|
@@ -58,8 +60,12 @@ Dimensions Mod wiki.
 |Armor|Interloper Commander Armor|
 |Weapon|Water Bow|
 |Weapon|Void Bow|
+|Weapon|Fire Bow|
 |Tool|Purple Pickaxe|
 |Structure|Portal Hallway|
 |Structure|Destroyed Portal Hallway|
+|Structure|Portal Hallway Ruins|
+|Structure|Interloper Houses|
 |Structures|Interloper Ships|
 |Structure|Water Fortress|
+|Structure|Fire Fortress|

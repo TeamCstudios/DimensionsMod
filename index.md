@@ -1,9 +1,16 @@
+---
+layout: page
+title: Welcome
+---
+
 # Dimensions Mod Wiki
 
 Dimensions Mod wiki.
 
 ### [Changelog](changelog)
 
+{:.table .table-striped .table-bordered .table-hover}
+{:.thead-dark}
 | Category          | Name                       |
 | ----------------- | -------------------------- |
 | Commands          | Dimensional Almanac        |
@@ -24,7 +31,7 @@ Dimensions Mod wiki.
 | Dimension         | The Chaos Dimension        |
 | Dimension         | Technofell                 |
 | Block / Material  | Eternal Bricks             |
-| Block / Material  | Eternal Silt               |
+| Block / Material  | Eternal S'ilt              |
 | Block / Material  | Purple Grass               |
 | Block / Material  | Purple Dirt                |
 | Block / Material  | Purple Stone               |

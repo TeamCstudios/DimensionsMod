@@ -1,3 +1,8 @@
+---
+layout: page
+title: changelog
+---
+
 # Stage 2 Beta
 ## 0.9.0
 - Fire Fortress

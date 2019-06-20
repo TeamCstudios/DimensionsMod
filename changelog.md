@@ -3,6 +3,24 @@ layout: page
 title: changelog
 ---
 
+# Stage 3 Beta
+## 0.10.0
+- Purple Bricks
+- Purple Fortress
+- Purple Bow
+- Electric Bow
+- Electric Fortress
+- Electrobomb
+- Shocked Silt
+- Air Bow
+- Bow of Elemental Creation
+- Bow of Elemental Destruction
+- Creative Tabs
+- Fixed portal misplacement
+- Fixed not working on multiplayer servers
+- Sky Dimension (Past)
+- Abandoned Dimension (Past)
+
 # Stage 2 Beta
 
 ## 0.9.0

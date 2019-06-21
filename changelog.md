@@ -4,6 +4,18 @@ title: changelog
 ---
 
 # Stage 3 Beta
+
+## 0.11.0
+- Air Fortress
+- Void Fortress
+- Clean Stone
+- Interlopia (Past)
+- Infinite Glacier (Past)
+- Technofell (Past)
+- Liquid Mercury
+- End (Past)
+- Corrupted Dimension (Past)
+
 ## 0.10.0
 - Purple Bricks
 - Purple Fortress

@@ -21,6 +21,7 @@ Dimensions Mod wiki.
 | Dimension         | Jungle Dimension                                  |
 | Dimension         | Deepest Forest Dimension                          |
 | Dimension         | Infinite Glacier Dimension                        |
+| Dimension         | Infinite Glacier Dimension (Past)                 |
 | Dimension         | [Eternal Ocean](dimension/eternalocean)           |
 | Dimension         | The Candy Dimension                               |
 | Dimension         | The Crazy Dimension                               |
@@ -28,10 +29,14 @@ Dimensions Mod wiki.
 | Dimension         | The Sky Dimension                                 |
 | Dimension         | The Sky Dimension (Past)                          |
 | Dimension         | Interlopia                                        |
+| Dimension         | Interlopia (Past)                                 |
 | Dimension         | The Corrupted Dimension                           |
+| Dimension         | The Corrupted Dimension (Past)                    |
 | Dimension         | Primordial Dimension                              |
 | Dimension         | The Chaos Dimension                               |
 | Dimension         | [Technofell](dimension/technofell)                |
+| Dimension         | Technofell (Past)                                 |
+| Dimension         | End (Past)                                        |
 | Block / Material  | Eternal Bricks                                    |
 | Block / Material  | Eternal Silt                                      |
 | Block / Material  | Purple Grass                                      |
@@ -47,10 +52,11 @@ Dimensions Mod wiki.
 | Block / Material  | Waste Ground                                      |
 | Block / Material  | Purple Brick                                      |
 | Block / Material  | Shocked Silt                                      |
+| Block / Material  | Clean Stone                                       |
 | Block / Crafted   | Icegem Block                                      |
 | Block / Explosive | Nuke                                              |
 | Block / Explosive | Water Bomb                                        |
-| Block / Explosive | Electro Bomb                                        |
+| Block / Explosive | Electro Bomb                                      |
 | Block / Ore       | Ice Ore                                           |
 | Fluid             | Purple Fluid                                      |
 | Fluid             | Goldwater                                         |
@@ -58,6 +64,7 @@ Dimensions Mod wiki.
 | Fluid             | Technowater                                       |
 | Fluid             | Candy Fluid                                       |
 | Fluid             | Super Fluid                                       |
+| Fluid             | Liquid Mercury                                    |
 | Material          | Eternal Clay                                      |
 | Material          | Eternal Brick                                     |
 | Material          | Purple Shard                                      |
@@ -71,14 +78,14 @@ Dimensions Mod wiki.
 | Armor             | Ice Armor                                         |
 | Armor             | Interloper Armor                                  |
 | Armor             | Interloper Commander Armor                        |
-| Weapon            | [Water Bow](weapon/waterbow)                                         |
-| Weapon            | [Void Bow](weapon/voidbow)                                          |
-| Weapon            | [Fire Bow](weapon/firebow)                         |
+| Weapon            | [Water Bow](weapon/waterbow)                      |
+| Weapon            | [Void Bow](weapon/voidbow)                        |
+| Weapon            | [Fire Bow](weapon/firebow)                        |
 | Weapon            | Air Bow                                           |
-| Weapon            | Purple Bow                                         |
-| Weapon            | Electric Bow                                         |
+| Weapon            | Purple Bow                                        |
+| Weapon            | Electric Bow                                      |
 | Weapon            | Bow of Elemental Creation                         |
-| Weapon            | Bow of Elemental Destruction                       |
+| Weapon            | Bow of Elemental Destruction                      |
 | Tool              | Purple Pickaxe                                    |
 | Structure         | Portal Hallway                                    |
 | Structure         | Destroyed Portal Hallway                          |
@@ -87,5 +94,7 @@ Dimensions Mod wiki.
 | Structures        | Interloper Ships                                  |
 | Structure         | Water Fortress                                    |
 | Structure         | Fire Fortress                                     |
-| Structure         | Purple Fortress                                    |
-| Structure         | Electric Fortress                                     |
+| Structure         | Purple Fortress                                   |
+| Structure         | Air Fortress                                      |
+| Structure         | Electric Fortress                                 |
+| Structure         | Void Fortress                                     |
